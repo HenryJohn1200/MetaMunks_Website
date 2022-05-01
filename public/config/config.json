@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x866bc510A63a422c4eDF5c40347D00df8FC49e04",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x866bc510a63a422c4edf5c40347d00df8fc49e04",
+  "CONTRACT_ADDRESS": "0x4D9203e8cA69c7308912A6d63a6a57994fDb47dC",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x4D9203e8cA69c7308912A6d63a6a57994fDb47dC",
   "NETWORK": {
     "NAME": "Matic Mumbai",
     "SYMBOL": "Matic",
@@ -9,10 +9,10 @@
   "NFT_NAME": "MetaMunks",
   "SYMBOL": "MM",
   "MAX_SUPPLY": 3333,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 5,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metemunks",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metamunkss",
   "SHOW_BACKGROUND": true
 }
