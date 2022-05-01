@@ -12,7 +12,7 @@
   "WEI_COST": 10000000000000000000,
   "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/metamunks-nft-1",
   "SHOW_BACKGROUND": true
 }
