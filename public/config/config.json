@@ -10,7 +10,7 @@
   "SYMBOL": "MM",
   "MAX_SUPPLY": 3333,
   "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 15,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/metamunks-nft-1",
